@@ -3,16 +3,17 @@
 branch numpy
 =======================================
 
-"""
-  This branch is for numpy training. 
-  introduction to numpy & what is it for. 
-  Create numpy arrays (from ordinary data structures). 
-  Perform arithmetic  operations on numpy arrays. 
-  create and perform arithmetic operations on vectors & matrices. 
-  Solve linear equations using numpy. 
-  Broadcasting introduction to json. 
-  Numpy for statistical operations. 
-
+""" </br>
+  <i>  
+  This branch is for numpy training. </br> 
+  introduction to numpy & what is it for. </br> 
+  Create numpy arrays (from ordinary data structures). </br> 
+  Perform arithmetic  operations on numpy arrays. </br> 
+  create and perform arithmetic operations on vectors & matrices. </br> 
+  Solve linear equations using numpy. </br> 
+  Broadcasting introduction to json. </br> 
+  Numpy for statistical operations. </br> 
+  </i> 
 """
 - numpy-training-0.py
   * some basic numpy operations (ndarray type)
